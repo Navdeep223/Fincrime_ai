@@ -35,7 +35,26 @@ FinCrime AI provides:
 * 🌐 Simple frontend interface
 
 ---
+## 📸 Screenshots
 
+Below are some visuals of the FinCrime AI system in action:
+
+### Landing Page
+![Landing Page](./assets/landing_page.png)
+
+### Features Dashboard
+![Features](./assets/features.png)
+
+### Fraudster AI
+![Fraudster AI](./assets/fraudster_ai.png)
+
+### Fraud Simulator
+![Fraud Simulator](./assets/fraud_simulator.png)
+
+### Report Generator
+![Report Generator](./assets/report_generator.png)
+
+---
 ## 🛠 Tech Stack
 
 * **Backend:** Python
